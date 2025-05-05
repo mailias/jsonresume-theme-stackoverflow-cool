@@ -274,8 +274,8 @@ section .location {
 .section-title {
   display: inline-block;
   background: #fff;
-  padding: 0 1em 0.3em 0;
-  color: #ff6d1f;
+  padding: 0 1em 0.8em 0;
+  color: #42a5f5;
   text-transform: uppercase;
   font-weight: 600;
   border: none;
@@ -382,8 +382,8 @@ section .location {
   font-size: 0.9rem;
   line-height: 1;
   color: #3e6d8e;
-  background-color: #dfeaf1;
-  border: 0 solid #dfeaf1;
+  background-color: #e0f2f1;
+  border: 0 solid #e0f2f1;
   white-space: nowrap;
 }
 
@@ -488,7 +488,7 @@ section .location {
   position: absolute;
   left: 0;
   content: "\f16c";
-  color: #f68a1f;
+  color: #26a69a;
   overflow: hidden;
   height: 100%;
 }
@@ -541,32 +541,33 @@ section .location {
 }
 
 .level.beginner .bar::after {
-  background: #eb5f51;
+  background:  #90a4ae; /* Blue Grey 300 */
   width: 2.5em;
 }
 
 .level.intermediate .bar::after {
-  background: #ffdf1f;
+  background: #42a5f5; /* Blue 400 */
   width: 5em;
 }
 
 .level.advanced .bar::after,
 .level.fluent .bar::after {
-  background: #5cb85c;
+  background: #1976d2; /* Blue 700 */
   width: 7.5em;
 }
 
 .level.master .bar::after,
 .level.native.speaker .bar::after {
-  background: #59c596;
+  background: #4caf7d; /* Green 600 */
   width: 10em;
 }
 
 #references .item {
   padding-left: 0.5em;
   margin-bottom: 1em;
-  border-left: 5px solid #ff6d1f;
+  border-left: 5px solid #42a5f5;
 }
+
 
 .section > section > section {
   margin-bottom: 1rem;
@@ -668,7 +669,7 @@ section .location {
     display: none;
   }
   .company a {
-    color: #40484f;
+    color: #2e3c43;
   }
   .company::before,
   .institution::before,
