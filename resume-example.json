@@ -1,0 +1,212 @@
+{
+  "basics": {
+    "name": "Alex Beispielmann",
+    "label": "Full Stack Developer",
+    "image": "https://randomuser.me/api/portraits/men/32.jpg",
+    "email": "alex.beispiel@example.com",
+    "phone": "+49 171 1234567",
+    "url": "https://alex.dev",
+    "summary": "Technikbegeisterter Full-Stack-Entwickler mit 6+ Jahren Erfahrung in der Entwicklung moderner Webanwendungen und Cloud-native Architekturen.",
+    "location": {
+      "address": "Beispielstraße 99",
+      "postalCode": "98765",
+      "city": "Beispielstadt",
+      "countryCode": "DE",
+      "region": "Nordrhein-Westfalen"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "alexbeispiel",
+        "url": "https://github.com/alexbeispiel"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "alexbeispiel",
+        "url": "https://linkedin.com/in/alexbeispiel"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "TechNova Solutions GmbH",
+      "position": "Senior Full Stack Developer",
+      "url": "https://technova.example.com",
+      "startDate": "2021-05-01",
+      "endDate": "2024-12-31",
+      "summary": "Verantwortlich für Architektur und Umsetzung komplexer Weblösungen für Kunden im Energiesektor.",
+      "highlights": [
+        "Einführung von Microfrontends mit React",
+        "Optimierung der Build-Zeiten um 50% durch Webpack-Tuning",
+        "CI/CD Automatisierung mit GitHub Actions"
+      ]
+    },
+    {
+      "name": "CodeFabrik AG",
+      "position": "Web Developer",
+      "startDate": "2018-01-01",
+      "endDate": "2021-04-30",
+      "summary": "Entwicklung moderner B2B-Portale mit Angular und Node.js",
+      "highlights": [
+        "Migration von AngularJS auf Angular 10",
+        "Integration von REST- und GraphQL-APIs",
+        "Einführung automatisierter Tests mit Cypress"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Hochschule Musterstadt",
+      "area": "Angewandte Informatik",
+      "studyType": "B.Sc.",
+      "startDate": "2013-10-01",
+      "endDate": "2017-09-30",
+      "gpa": "1.8",
+      "courses": [
+        "Datenbanken",
+        "Algorithmen & Datenstrukturen",
+        "Software Engineering"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "EcoTrack",
+      "description": "Dashboard zur Erfassung von CO2-Verbrauch in Fuhrparks",
+      "highlights": [
+        "React + Redux Frontend mit Echtzeitdaten",
+        "Backend in Node.js mit MongoDB und WebSockets",
+        "Deployment via Docker + Kubernetes"
+      ],
+      "keywords": ["React", "Node.js", "DevOps", "Echtzeit"],
+      "startDate": "2022-02-01",
+      "endDate": "2022-10-01",
+      "url": "https://github.com/alexbeispiel/ecotrack",
+      "roles": ["Lead Developer", "DevOps Engineer"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Open Source Initiative",
+      "position": "Maintainer",
+      "url": "https://opensource.org",
+      "startDate": "2021-03-01",
+      "endDate": "2023-02-28",
+      "summary": "Beitrag zu Open-Source-Projekten und Betreuung von Pull Requests sowie Issue-Management.",
+      "highlights": [
+        "Pflege von Dokumentation und Tooling für ein npm-Paket",
+        "Moderation von Diskussionen in der Community",
+        "Mentoring von neuen Beitragenden"
+      ]
+    },
+    {
+      "organization": "Jugend hackt",
+      "position": "Mentor",
+      "url": "https://jugendhackt.org",
+      "startDate": "2020-09-01",
+      "endDate": "2021-12-01",
+      "summary": "Unterstützung von Jugendlichen bei der Entwicklung technischer Projekte mit gesellschaftlichem Mehrwert.",
+      "highlights": [
+        "Beratung bei der Architektur von Webprojekten",
+        "Workshop zur Einführung in Git & GitHub gehalten",
+        "Feedback und Code Reviews gegeben"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Top Developer Award",
+      "date": "2022-12-01",
+      "awarder": "TechNova Solutions GmbH",
+      "summary": "Auszeichnung für herausragende Beiträge zur Entwicklung und Optimierung der Webplattform im Energiesektor."
+    },
+    {
+      "title": "Best Open Source Contribution",
+      "date": "2021-09-15",
+      "awarder": "Open Source Initiative",
+      "summary": "Für den aktiven Beitrag zur Wartung und Weiterentwicklung eines populären npm-Packages."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "AWS Certified Solutions Architect – Associate",
+      "date": "2023-06-15",
+      "issuer": "Amazon Web Services",
+      "url": "https://www.credly.com/badges/example-aws"
+    },
+    {
+      "name": "JavaScript Algorithms and Data Structures",
+      "date": "2022-11-10",
+      "issuer": "freeCodeCamp",
+      "url": "https://www.freecodecamp.org/certification/alexbeispiel/javascript-algorithms"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Frontend",
+      "level": "Advanced",
+      "keywords": ["React", "Next.js", "Vue", "TypeScript", "TailwindCSS"]
+    },
+    {
+      "name": "Backend",
+      "level": "Beginner",
+      "keywords": ["Node.js", "Express", "MongoDB", "PostgreSQL"]
+    },
+    {
+      "name": "DevOps & Cloud",
+      "level": "Intermediate",
+      "keywords": ["Docker", "Kubernetes", "AWS", "CI/CD", "Terraform"]
+    },
+    {
+      "name": "Testing",
+      "level": "Intermediate",
+      "keywords": ["Jest", "Cypress", "Playwright"]
+    },
+    {
+      "name": "Monitoring & Logging",
+      "keywords": ["Grafana", "Prometheus", "Loki", "Elastic Stack"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "ES6+",
+        "TypeScript",
+        "Node.js",
+        "React",
+        "Webpack",
+        "Performance Optimization"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Deutsch",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Englisch",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Fotografie",
+      "keywords": ["Analog", "Reisefotografie", "Street"]
+    },
+    {
+      "name": "Smart Home",
+      "keywords": ["Home Assistant", "IoT", "ESP32"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Dr. Erika Testfrau",
+      "reference": "Alex ist ein engagierter Entwickler, der stets über den Tellerrand hinausschaut und exzellente Lösungen liefert."
+    },
+    {
+      "name": "Martin Mustermann",
+      "reference": "Ich habe mit Alex bei TechNova Solutions zusammengearbeitet – seine technische Tiefe und Kommunikationsstärke haben maßgeblich zum Projekterfolg beigetragen."
+    }
+  ]
+}
